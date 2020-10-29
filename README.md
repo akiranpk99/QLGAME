@@ -1,0 +1,2 @@
+# QLGAME
+Web bán game
